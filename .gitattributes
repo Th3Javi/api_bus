@@ -1,0 +1,8 @@
+# Manejo de finales de línea
+* text=auto
+
+# Configuración específica para Windows y Unix/Linux
+*.java eol=lf
+*.xml eol=lf
+*.cmd eol=crlf
+*.sh eol=lf
